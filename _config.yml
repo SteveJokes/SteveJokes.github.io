@@ -1,14 +1,14 @@
 # Site settings
 encoding: utf-8
-title: Cody
-description: Cody1991的个人博客
-baseurl: "https://cody1991.github.io" 
+title: SteveJokes
+description: SteveJokes的个人博客
+baseurl: "https://stevejokes.github.io" 
 # baseurl: ''
-github_username:  cody1991
+github_username:  SteveJokes
 paginate: 8
 paginate_path: "/page:num"
 footer_twitter: "Twitter"
-footer_twitter_site: "https://twitter.com/cody19910828"
+footer_twitter_site: "https://twitter.com/stevejokes"
 footer_github: "GitHub"
 footer_resume: "简历"
 footer_resume_site: "https://cody1991.github.io/aboutme/index.html"
