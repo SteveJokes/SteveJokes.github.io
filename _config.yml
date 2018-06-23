@@ -11,6 +11,6 @@ footer_twitter: "Twitter"
 footer_twitter_site: "https://twitter.com/stevejokes"
 footer_github: "GitHub"
 footer_resume: "简历"
-footer_resume_site: "https://cody1991.github.io/aboutme/index.html"
+footer_resume_site: "https://stevejokes.github.io/aboutme/index.html"
 port: 8070
 gems: [jekyll-paginate]
